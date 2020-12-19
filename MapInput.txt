@@ -1,0 +1,14 @@
+Witte, true, Sellery, true, Ogg, true, Smith, true, Johnson & Lake, false, University & Park, false, Langdon & Park, false, Lake & State, false, Langdon & Lake, false, Vilas, true, College Library, true, Van Vleck, true, Union South, true
+Witte, Johnson & Lake, 3, Lake & State, 7
+Sellery, Johnson & Lake, 2, University & Park, 4
+Ogg, University & Park, 8
+Smith, Langdon & Park, 1
+Johnson & Lake, Witte, 4, Sellery, 4, Lake & State, 2
+University & Park, Sellery, 1, Ogg, 4, Langdon & Park, 9, Lake & State, 3
+Langdon & Park, Smith, 2, University & Park, 1, Langdon & Lake, 10, Union South, 4
+Lake & State, Witte, 10, Johnson & Lake, 9, University & Park, 1, Langdon & Lake, 3, College Library, 10, Vilas, 8
+Langdon & Lake, Lake & State, 8, Langdon & Park, 6, Van Vleck, 2, College Library, 4
+Vilas, Lake & State, 6
+College Library, Lake & State, 6, Langdon & Lake, 6
+Van Vleck, Langdon & Lake, 2
+Union South, Langdon & Park, 4
