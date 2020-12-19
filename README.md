@@ -1,2 +1,2 @@
 # Map-Of-UW
-Implements Djikstra's algorithm to find shortest path between locations on a user-generated map
+Note that this was a group project, and class headers at the beginning of each file indicate which members wrote what. My role involved creating the front-end interface, and I also used my own Djikstra's algorithm implementation.
